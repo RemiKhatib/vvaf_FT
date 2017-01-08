@@ -1,0 +1,6 @@
+#Result of the compilation
+glob_const.mod
+filter
+
+#Result of the use of the script
+FT_*.dat
